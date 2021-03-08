@@ -1,4 +1,4 @@
 # RMEP
 
-Code will be released later, please be patient.
+Code will be released later. Thank you for your patience.
 
